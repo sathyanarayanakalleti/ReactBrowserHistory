@@ -1,0 +1,42 @@
+.list-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+.list-con2 {
+  display: flex;
+  flex-direction: row;
+  margin-right: 90px;
+}
+.del-img {
+  background-color: transparent;
+
+  border-width: 0px;
+  margin-left: auto;
+  height: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.para1 {
+  color: #475569;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.logo-img {
+  height: auto;
+}
+
+.para2 {
+  font-size: 15px;
+  margin-left: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.para3 {
+  color: #64748b;
+  margin-left: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
